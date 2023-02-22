@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "355683991532",
+    "project_id": "atsystem-5808e",
+    "storage_bucket": "atsystem-5808e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355683991532:android:85b58a529ec4ec97af4ac9",
+        "android_client_info": {
+          "package_name": "com.example.ats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355683991532-78ma5qftmc800q74k961uhbttu215b37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATCOI6gV7H4PCoc2XMn3xrA-i-u-P_p7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355683991532-78ma5qftmc800q74k961uhbttu215b37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
